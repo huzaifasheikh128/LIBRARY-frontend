@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # --
-API_URL = "librarybackend-pqvr34ctr-huzaifa-sheikh-s-projects.vercel.app" 
+API_URL = "https://librarybackend-pqvr34ctr-huzaifa-sheikh-s-projects.vercel.app"
 
 st.set_page_config(page_title="Library Management", layout="centered")
 st.title("Library Management System")
