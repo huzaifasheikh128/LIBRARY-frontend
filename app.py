@@ -1,8 +1,8 @@
 import streamlit as st
 import requests
 
-# --- IMPORTANT: REPLACE THIS URL AFTER DEPLOYING YOUR VERCEL BACKEND ---
-API_URL = "https://YOUR-VERCEL-APP-URL.vercel.app" 
+# --
+API_URL = "librarybackend-pqvr34ctr-huzaifa-sheikh-s-projects.vercel.app" 
 
 st.set_page_config(page_title="Library Management", layout="centered")
 st.title("Library Management System")
